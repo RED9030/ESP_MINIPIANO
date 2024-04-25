@@ -9,7 +9,7 @@
   * 8 pushbuttons from +3.3V
   * 8 10K resistors
   * 8-ohm speaker on digital pin D4
-  * Play presets tone on digital pin D5 (3 tones diferents, if you have sdcard)
+  * Play presets tone on digital pin D5 (3 tones diferents, if you have sdcard) (proximamente...)
 */
 
 
